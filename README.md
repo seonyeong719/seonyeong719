@@ -2,11 +2,12 @@
 
 <h1>Welcome to My GitHub!</h1>
 
-<br>
-<br>
-
 <h2> 📚 My Tech Stack </h2>
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-F7DF1D?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Html5-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/styled--components-%23DB7093.svg?&style=flat-square&logo=styled-components&logoColor=white" />
 
 <br>
+
+<h2>💡 Most Used Langauages</h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seonyeong719)](https://github.com/seonyeong719/github-readme-stats)
